@@ -166,7 +166,7 @@ p.category{
 }
 
 @media screen and (min-width:516px) {
-  #footer{
+  #footer .center-content{
     display: block;
   }
 

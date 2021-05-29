@@ -1,16 +1,16 @@
 <div id="footer">
   <div class="center-content">
     <div class="hoop hoop2">
-      <p>poradie</p>
+      <p>order</p>
     </div>
     <div class="hoop hoop1">
-      <p>Správne</p>
+      <p>correct</p>
     </div>
     <div class="hoop hoop4">
-      <p>telefóne</p>
+      <p>the phone</p>
     </div>
     <div class="hoop hoop3">
-      <p>iba na</p>
+      <p>only on</p>
     </div>
   </div>
 </div>
