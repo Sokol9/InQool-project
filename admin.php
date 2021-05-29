@@ -8,6 +8,7 @@ autor: Jakub Sokolik
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Admin</title>
 		<link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" type="image/png" href="img/inqool.png"/>
   </head>
   <body>
     <div id="content">

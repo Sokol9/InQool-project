@@ -9,6 +9,7 @@ autor: Jakub Sokolik
 		<title>Home</title>
 		<link rel="stylesheet" href="css/style.css">
     <script  src="https://www.gstatic.com/charts/loader.js"></script>
+    <link rel="shortcut icon" type="image/png" href="img/inqool.png"/>
   </head>
   <body>
     <div id="content">
