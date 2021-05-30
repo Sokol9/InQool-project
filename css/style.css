@@ -113,6 +113,10 @@ input[type="submit" i]{
   margin-bottom: 16px;
 }
 
+.article-item p{
+  text-align: justify;
+}
+
 .articles{
   margin-bottom: 56px;
 }
